@@ -45,5 +45,12 @@ public class MathString {
 
     }
 
+    // List to array
+    // Foo[] array = list.toArray(new Foo[0]);
+
+    // Array to list
+    //Integer[] numbers = new Integer[] { 1, 2, 3 };
+    //List<Integer> list = Arrays.asList(numbers);
+
 
 }
